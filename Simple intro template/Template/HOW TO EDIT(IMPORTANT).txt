@@ -1,0 +1,27 @@
+Don't edit any of the red layers, green layers needs to be edited. Blue can be edited.
+
+If you are a begginer to After Effects, here is a very detailed tutorial.
+
+How to import your logo:
+
+1. Open the project file.
+2. Import your logo.
+3. Drag your logo to the composition and drop it under the "logo" layer.
+4. Select the logo layer and press "u" on your keyboard.
+5. Now go all the way to the left until you see two arrows and in the middle of those there should be a gray diamond shape.
+6. Click the arrow pointing RIGHT.
+7. Highlight both keyframes and copy them (CRTL + c)
+8. Select your own logo layer and press "s" on your keyboard.
+9. Paste the keyframes (CRTL + v)
+10. Delete the other logo layer.
+
+11. If your logo scales up to much, or to litte, then select your logo layer again and press "s". (you may have to press twice if the scale option doesnt appear)
+12. Press the right arrow again but twice this time.
+13. Crank up or down the scale amount.
+
+How to change the text:
+
+1. Double click the "EDIT ME" layer.
+2. Type in your own text. If you want to you can also change the font over at the right side.
+
+Look up a tutorial on Youtube on how to render.

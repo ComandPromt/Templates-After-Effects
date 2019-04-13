@@ -1,0 +1,21 @@
+Hey there! 
+
+Thank you for downloading this intro template!
+
+HOW TO CUSTOMISE!!!
+
+1. Click on text layer and select the text tool, hover over the text then select it. 
+2. Once you have selected the text type in what you like! If you wish to enter a logo
+then continue to step 3, if not 
+3. Hover over the file button in the top left, once it gives you a drop down menu - hover over import, 
+click file and select you logo or whatever it is you would like to replace the text with. Once imported - move
+and rescale the image to your choice.
+4. Hover over the file button in the top left, once it gives you a drop down menu - click export then 
+click render queue.
+5. When you have clicked render queue, make sure that the box under where it says render is ticked.
+6. Once the box is ticked go to output module and click on the arrow pointing down and select H.264, after that 
+click on the text next to file output and select where you would like you custom intro to be saved.
+
+Hope you enjoy :)
+
+Silk
